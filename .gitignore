@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.vscode/
+
+# Keep the deployable resume copy, ignore the original local source file.
+PriyalPanda_Resume_DE (1).pdf
