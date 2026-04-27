@@ -497,7 +497,7 @@ export default function App() {
             <p className="contact-kicker">Contact</p>
             <h2>Open to data analyst opportunities, BI work, and insight-focused roles.</h2>
             <p>
-              Reach Priyal directly for data analyst, reporting, dashboard,
+              Reach out directly for data analyst, reporting, dashboard,
               analytics engineering, or MLOps-adjacent opportunities.
             </p>
 
