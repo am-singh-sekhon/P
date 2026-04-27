@@ -456,10 +456,6 @@ export default function App() {
         >
           <div className="row-heading">
             <h2>Education and Foundations</h2>
-            <p>
-              Graduate training and analytical methods that support Priyal&apos;s
-              reporting, experimentation, and decision-making work.
-            </p>
           </div>
 
           <div className="education-grid">
